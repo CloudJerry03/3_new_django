@@ -21,10 +21,12 @@
   - cd \<프로젝트명> 으로 해서 들어가서 다음을 진행하면 됨
 
 <img src="/img/온점을 붙인경우.PNG"></img>
-    - 온점을 붙인 경우
+    
+  - 온점을 붙인 경우
 
 
 <img src="/img/온점을 안 붙인경우.PNG"></img>
-    - 온점을 안 붙인 경우
+    
+  - 온점을 안 붙인 경우
 
 - Django App 생성 : python manage.py startapp \<App 이름>
